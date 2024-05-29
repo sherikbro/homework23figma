@@ -27,6 +27,11 @@ header{
         .logo{
             display: flex;
             gap: 15px;
+            span{
+                img{
+                    cursor: pointer;
+                }
+            }
         }
         .nav-links{
             display: flex;

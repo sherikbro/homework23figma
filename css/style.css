@@ -45,6 +45,9 @@ header nav .logo {
   display: flex;
   gap: 15px;
 }
+header nav .logo span img {
+  cursor: pointer;
+}
 header nav .nav-links {
   display: flex;
   gap: 8px;
