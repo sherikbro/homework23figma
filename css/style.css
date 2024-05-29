@@ -332,6 +332,7 @@ header .nav22 p {
   width: 100%;
   display: flex;
   padding: 50px 0;
+  gap: 50px;
 }
 .work .work-items .work-img {
   flex: 1;
@@ -340,10 +341,11 @@ header .nav22 p {
   width: 100%;
 }
 .work .work-items .work-text {
-  flex: 3;
+  flex: 2.6;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: start;
   gap: 25px;
 }
 .work .work-items .work-text h2 {
